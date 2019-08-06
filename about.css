@@ -1,0 +1,19 @@
+body {
+    background-image: url("https://ak1.picdn.net/shutterstock/videos/9528641/thumb/1.jpg");
+    background-repeat: no-repeat;
+    background-size: 100%;
+    font-family: 'Raleway', sans-serif;
+text-align: center;
+   
+    
+background-position: top left;
+
+
+
+}
+
+p {
+    font-family: 'Raleway', sans-serif;
+    font-size: 30px;
+    color: rgba(255, 0, 0, 0.719);
+}

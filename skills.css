@@ -1,0 +1,16 @@
+body{
+
+    margin: 0px;
+}
+img{
+    width: 100%;
+    z-index: -1;
+    height: 50%;
+    margin:0px;
+
+}
+#yourface{
+    z-index: 2;
+   
+    margin : 0px;
+}
